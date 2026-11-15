@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "title": "TlanexAI — Luis López, desarrollador",
+    "description": "Bitácora y proyectos de Luis López. Construyo en público: IA, web y lo que voy aprendiendo."
+  },
+  "nav": {
+    "projects": "proyectos",
+    "log": "bitácora",
+    "about": "sobre-mí",
+    "switchLanguage": "Cambiar idioma"
+  },
+  "home": {
+    "kicker": "tlanextli: resplandor",
+    "titleA": "Código con raíz.",
+    "titleB": "Futuro en construcción.",
+    "intro": "Soy Luis, desarrollador. Aquí construyo en público con IA, web y lo que voy aprendiendo, y dejo registro de cada paso.",
+    "ctaProjects": "ver proyectos",
+    "ctaLog": "leer bitácora",
+    "latest": "Lo último en la bitácora",
+    "projects": "Proyectos"
+  },
+  "log": {
+    "title": "Bitácora",
+    "intro": "Registro de lo que construyo, lo que aprendo y lo que se rompe en el camino.",
+    "entry": "entrada",
+    "back": "volver a la bitácora",
+    "empty": "Todavía no hay entradas."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "intro": "Todo lo que construyo vive en GitHub, en público.",
+    "status": {
+      "live": "en línea",
+      "building": "en construcción",
+      "idea": "idea"
+    },
+    "repo": "repositorio",
+    "visit": "visitar"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "nameTitle": "¿Por qué TlanexAI?",
+    "name": "Tlanextli es una palabra náhuatl que significa resplandor, luz, claridad. Elegí ese nombre porque es lo que quiero que haga mi trabajo: dar claridad. Código que se entiende, procesos que se documentan y aprendizaje que se comparte.",
+    "whoTitle": "Quién soy",
+    "who": "Soy Luis Ángel López, desarrollador en México. Me interesan la inteligencia artificial y el desarrollo web, y este sitio es mi forma de construir en público: cada proyecto y cada aprendizaje queda registrado aquí.",
+    "contactTitle": "Dónde encontrarme"
+  },
+  "footer": {
+    "built": "Construido en público con Next.js y desplegado en Vercel.",
+    "source": "código fuente"
+  }
+}

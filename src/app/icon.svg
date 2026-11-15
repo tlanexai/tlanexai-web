@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <rect width="50" height="50" rx="6" fill="#0b0b12"/>
+  <g transform="translate(5 5) scale(0.8)">
+    <rect x="1" y="1" width="8" height="8" fill="#1fe0b8"/>
+    <rect x="21" y="1" width="8" height="8" fill="#ec4fae"/>
+    <rect x="41" y="1" width="8" height="8" fill="#1fe0b8"/>
+    <rect x="11" y="11" width="8" height="8" fill="#e8a33d"/>
+    <rect x="21" y="11" width="8" height="8" fill="#e8a33d"/>
+    <rect x="31" y="11" width="8" height="8" fill="#e8a33d"/>
+    <rect x="1" y="21" width="8" height="8" fill="#ec4fae"/>
+    <rect x="11" y="21" width="8" height="8" fill="#e8a33d"/>
+    <rect x="21" y="21" width="8" height="8" fill="#1fe0b8"/>
+    <rect x="31" y="21" width="8" height="8" fill="#e8a33d"/>
+    <rect x="41" y="21" width="8" height="8" fill="#ec4fae"/>
+    <rect x="11" y="31" width="8" height="8" fill="#e8a33d"/>
+    <rect x="21" y="31" width="8" height="8" fill="#e8a33d"/>
+    <rect x="31" y="31" width="8" height="8" fill="#e8a33d"/>
+    <rect x="1" y="41" width="8" height="8" fill="#1fe0b8"/>
+    <rect x="21" y="41" width="8" height="8" fill="#ec4fae"/>
+    <rect x="41" y="41" width="8" height="8" fill="#1fe0b8"/>
+  </g>
+</svg>

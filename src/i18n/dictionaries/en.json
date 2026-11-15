@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "title": "TlanexAI — Luis López, developer",
+    "description": "Luis López's dev log and projects. Building in public: AI, web, and whatever I'm learning."
+  },
+  "nav": {
+    "projects": "projects",
+    "log": "dev-log",
+    "about": "about",
+    "switchLanguage": "Switch language"
+  },
+  "home": {
+    "kicker": "tlanextli: radiance",
+    "titleA": "Code with roots.",
+    "titleB": "Future under construction.",
+    "intro": "I'm Luis, a developer. I build in public here with AI, the web, and whatever I'm learning, and I log every step.",
+    "ctaProjects": "see projects",
+    "ctaLog": "read the dev log",
+    "latest": "Latest from the dev log",
+    "projects": "Projects"
+  },
+  "log": {
+    "title": "Dev log",
+    "intro": "A record of what I build, what I learn, and what breaks along the way.",
+    "entry": "entry",
+    "back": "back to the dev log",
+    "empty": "No entries yet."
+  },
+  "projects": {
+    "title": "Projects",
+    "intro": "Everything I build lives on GitHub, in public.",
+    "status": {
+      "live": "live",
+      "building": "in progress",
+      "idea": "idea"
+    },
+    "repo": "repository",
+    "visit": "visit"
+  },
+  "about": {
+    "title": "About",
+    "nameTitle": "Why TlanexAI?",
+    "name": "Tlanextli is a Nahuatl word meaning radiance, light, clarity. I chose it because that's what I want my work to do: bring clarity. Code that's easy to understand, processes that are documented, and learning that's shared.",
+    "whoTitle": "Who I am",
+    "who": "I'm Luis Ángel López, a developer based in Mexico. I'm into artificial intelligence and web development, and this site is how I build in public: every project and every lesson gets logged here.",
+    "contactTitle": "Find me"
+  },
+  "footer": {
+    "built": "Built in public with Next.js, deployed on Vercel.",
+    "source": "source code"
+  }
+}
